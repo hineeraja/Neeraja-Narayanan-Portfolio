@@ -45,7 +45,7 @@ function Header() {
         </Container>
         </Jumbotron>
         <Container class="shadow mb-5 bg-light">
-          <h2>A little bit about me</h2>
+          <h2>Me</h2>
           <p>
 As an engineer with dual Master's degrees in Technology and Management, I've seamlessly blended foundational 
 tools like JavaScript, HTML, and CSS with sophisticated technologies such as Express.js, 
