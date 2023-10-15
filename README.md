@@ -44,7 +44,7 @@ Visit http://localhost:3000 in your browser
 # 📃 License & Acknowledgements
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-https://github.com/hineeraja/React--Portfolio
+https://github.com/hineeraja/Neeraja-Narayanan-Portfolio
 ![Alt text](image.png)
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
