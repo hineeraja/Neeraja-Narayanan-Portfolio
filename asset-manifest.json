@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Neeraja%20Narayanan_/static/css/main.029e664c.css",
-    "main.js": "/Neeraja%20Narayanan_/static/js/main.7607e80c.js",
-    "static/js/787.6620df78.chunk.js": "/Neeraja%20Narayanan_/static/js/787.6620df78.chunk.js",
-    "static/media/pp3.jpeg": "/Neeraja%20Narayanan_/static/media/pp3.4830709bd41bd6720bfe.jpeg",
-    "index.html": "/Neeraja%20Narayanan_/index.html",
-    "main.029e664c.css.map": "/Neeraja%20Narayanan_/static/css/main.029e664c.css.map",
-    "main.7607e80c.js.map": "/Neeraja%20Narayanan_/static/js/main.7607e80c.js.map",
-    "787.6620df78.chunk.js.map": "/Neeraja%20Narayanan_/static/js/787.6620df78.chunk.js.map"
+    "main.css": "/Neeraja-Narayanan-Portfolio/static/css/main.029e664c.css",
+    "main.js": "/Neeraja-Narayanan-Portfolio/static/js/main.fcf9eb71.js",
+    "static/js/787.6620df78.chunk.js": "/Neeraja-Narayanan-Portfolio/static/js/787.6620df78.chunk.js",
+    "static/media/pp3.jpeg": "/Neeraja-Narayanan-Portfolio/static/media/pp3.4830709bd41bd6720bfe.jpeg",
+    "index.html": "/Neeraja-Narayanan-Portfolio/index.html",
+    "main.029e664c.css.map": "/Neeraja-Narayanan-Portfolio/static/css/main.029e664c.css.map",
+    "main.fcf9eb71.js.map": "/Neeraja-Narayanan-Portfolio/static/js/main.fcf9eb71.js.map",
+    "787.6620df78.chunk.js.map": "/Neeraja-Narayanan-Portfolio/static/js/787.6620df78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.029e664c.css",
-    "static/js/main.7607e80c.js"
+    "static/js/main.fcf9eb71.js"
   ]
 }
